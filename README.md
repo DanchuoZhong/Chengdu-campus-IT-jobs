@@ -32,6 +32,7 @@
 | 百度                   | （未知）                   | 智能驾驶                                                             | 2020刚签约，未建成<sup>[1]</sup> |
 | 快手                   | （未知）                   | 直播电商                                                             | 2020刚签约，未建成<sup>[1]</sup> |
 | 网易                   | （未知）                   | （未知）                                                             | 2020刚签约，未建成<sup>[4]</sup> |
+
 [腾讯2020年成都校招岗位链接](https://mp.weixin.qq.com/s?__biz=MjM5NzAzMTQ4MA==&mid=2650743817&idx=1&sn=4401d593a9cb70b234216f388fc5e3b3&chksm=beebbf5e899c3648a02aca2fac36153e985be1539c88f14fd5452a0d1f4e0c2cd9b13db76998&scene=38#wechat_redirect)
 # 外企
 除了前几家公司，其他在成都的hc较少，甚至没有校园招聘。
@@ -229,6 +230,7 @@
 | 成都壹为新能源汽车 | 新能源汽车             |      |
 | 威马汽车           | 汽车                   |      |
 | 成都主导科技       | 轨道交通领域的安全检测 |      |
+
 [1]: http://www.nbd.com.cn/articles/2020-06-24/1450269.html
 [2]: https://zhuanlan.zhihu.com/p/42650186
 [3]: https://36kr.com/p/1722935427073
