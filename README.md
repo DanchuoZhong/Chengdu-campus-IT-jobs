@@ -5,8 +5,8 @@
 - **欢迎提issue！欢迎commit！我一个人维护还是很蛋疼的！**
 
 整理费时，欢迎打赏一瓶矿泉水：
-<div width=50%>
-  <img src="https://user-images.githubusercontent.com/42824173/120304837-b93bff80-c302-11eb-9912-39a4ac4b77dc.png">
+<div>
+  <img width="400px" src="https://user-images.githubusercontent.com/42824173/120304837-b93bff80-c302-11eb-9912-39a4ac4b77dc.png">
 </div>
 
 
