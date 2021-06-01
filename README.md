@@ -5,7 +5,10 @@
 - **欢迎提issue！欢迎commit！我一个人维护还是很蛋疼的！**
 
 整理费时，欢迎打赏一瓶矿泉水：
-![image](https://user-images.githubusercontent.com/42824173/120304837-b93bff80-c302-11eb-9912-39a4ac4b77dc.png)
+<div width=50%>
+  ![image](https://user-images.githubusercontent.com/42824173/120304837-b93bff80-c302-11eb-9912-39a4ac4b77dc.png)
+</div>
+
 
 # 互联网大厂
 大厂的架构比较复杂，招聘平台和网上新闻的信息不完全堆硬，可能总结的不全而且有疏漏；有的业务未启动，仅列出。希望了解的老铁们可以补充。
