@@ -6,7 +6,7 @@
 
 整理费时，欢迎打赏一瓶矿泉水：
 <div width=50%>
-  ![image](https://user-images.githubusercontent.com/42824173/120304837-b93bff80-c302-11eb-9912-39a4ac4b77dc.png)
+  <img src="https://user-images.githubusercontent.com/42824173/120304837-b93bff80-c302-11eb-9912-39a4ac4b77dc.png">
 </div>
 
 
