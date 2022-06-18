@@ -312,13 +312,23 @@
 **共2家可投**
 | 公司     | 业务/产品                  | 备注         |
 | -------- | -------------------------- | ------------ |
-| 北森云   | 人力资源、在线课程         |              |
+| <del>北森云</del>   | 人力资源、在线课程|[5月毁约22应届毕业生]https://www.nowcoder.com/search?query=%E5%8C%97%E6%A3%AE+%E6%AF%81%E7%BA%A6&type=post|
 | 泛微   | 数字化办公、OA系统         |              |
 | 彩程设计 | tower、 知人等企业管理应用 | 2020未见校招 |
 | TestBird | 移动广告、移动测试等       | 2020未见校招 |
 | 麦客CRM  | 在线表单工具               | 2020未见校招 |
 | 美洽     | 企业客服                   | 2020未见校招 |
 | 成都逸创 | 云客服                     | 2020未见校招 |
+
+北森毁约：
+https://www.nowcoder.com/discuss/958057?type=post&order=recall&pos=&page=6&ncTraceId=&channel=-1&source_id=search_post_nctrack
+https://www.nowcoder.com/discuss/958501?type=post&order=recall&pos=&page=1&ncTraceId=&channel=-1&source_id=search_post_nctrack
+![image](https://user-images.githubusercontent.com/42824173/174416792-7579f5b6-c7c4-4847-9e30-5ed911d62ac7.png)
+![image](https://user-images.githubusercontent.com/42824173/174416795-8c0e9dc7-84e8-4b55-9517-1d444b5de439.png)
+![image](https://user-images.githubusercontent.com/42824173/174416798-bf2a5ae3-10e2-433f-b03d-5d6fd8c2f868.png)
+![image](https://user-images.githubusercontent.com/42824173/174416804-f9d39138-d18a-41b3-bcfa-92d3ed9ea330.png)
+![image](https://user-images.githubusercontent.com/42824173/174416810-05fc5c37-2669-4ae6-99e5-57b6d8c619af.png)
+
 
 # 其他
 其他一些不好分类的企业，
@@ -330,7 +340,7 @@
 | 鸣石峻致           | 医疗科技               |              |
 | 联影医疗           | 医学图像               |              |
 | 麒麟软件           | 麒麟操作系统           |              |
-| 中科创达           | 操作系统               |              |
+| <del>中科创达</del> | 操作系统   | [毁约22应届毕业生](https://www.nowcoder.com/subject/index/973ba27d678e48648b38ed63ba75af13)|
 | 拓尔思             | 企业搜索、舆情监控     |              |
 | 小步创想           | 智慧城市               |              |
 | 中电兴发科技       | 物联网                 |              |
@@ -341,6 +351,9 @@
 | 超图软件           | GIS软件                |              |
 | 先临三维           | 3D打印                 |              |
 | 印象笔记           | 笔记软件               | 未见校园招聘 |
+
+![image](https://user-images.githubusercontent.com/42824173/174416599-01295e27-813f-4e46-b5e5-66f4868d5918.png)
+![image](https://user-images.githubusercontent.com/42824173/174416653-bc9f3011-f5d5-4938-8079-74d90d0c3f3b.png)
 
 # 比较知名但没有建成、没有技术hc、没有校招的公司
 | 公司     | 业务/产品               | 备注                             |
