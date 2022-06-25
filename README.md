@@ -389,4 +389,4 @@ https://www.nowcoder.com/discuss/958501?type=post&order=recall&pos=&page=1&ncTra
 - 22/03/04 调整了贝壳
 - 22/03/05 新增泛微、橙风趣游、地平线
 - 22/03/29 新增烽火通信、海尔、瀚博
-- 22/06/25 
+- 22/06/25 新增叠拓，金证科技，星辰天合
